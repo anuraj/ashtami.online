@@ -3,4 +3,4 @@ title: Ashtami
 subtitle: "Ashtami - All about Vaikkathashtami"
 url: "https://ashtami.online/"
 baseurl: "/"
-permalink: /:title
+permalink: /:title/
